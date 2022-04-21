@@ -2,6 +2,8 @@
 
 Random Color est une webapp et une application android (le fichier .APK sera bientôt disponible)
 qui a pour but de choisir une couleur à votre place et de pouvoir obtenir des informations en double cliquant sur le texte. Il faut savoir aussi aussi que pour changer de couleur il suffit seulement d'appuyer sur la touche espace ou d'appuyer n'importe où sur l'écran. 
+
+
 ## 🔜 Prochainement 🔜
 
 - Couleur en dégradé et afficher le code css du dégradé
