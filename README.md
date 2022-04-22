@@ -7,6 +7,7 @@ Note : \*vous pouvez le build à l'aide de la commande ```flutter build apk``` d
 
 ## 🔜 Prochainement 🔜
 
+- Une version CLI est en cours de developpement
 - Couleur en dégradé et afficher le code css du dégradé
 - Appuyer sur la partie gauche fais revenir à la couleur d'avant ou sur flèche gauche
 - Option uniquement couleurs clairs/sombres
