@@ -19,5 +19,5 @@ Note : \*vous pouvez le build à l'aide de la commande ```flutter build apk``` d
 Seul el2zay travaille sur ce projet pour l'instant
 
 
-## Propositions/Questions
+## ❓ Propositions/Questions ❓
 Retrouvez tous mes liens de contact sur [mon site](https://el2zay.is-a.dev)
